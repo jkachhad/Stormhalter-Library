@@ -54,6 +54,7 @@ public class StormhalterIntroduction() : PublishedBook(
 	/* a new page with more structured elements. */
 	new Page(
 		/* paragraphs are laid out and wrapped. */
-		new ParagraphPageElement("Stormhalter isn't just a game project; it's a passion project by a group of people. It began as a remake of Legends of Kesmai, with the goal of building a welcoming community. "),
-		new ParagraphPageElement("The aim is to welcome new players, especially those who have never experienced Island of Kesmai, Legends of Kesmai, or Lands of Kes.")
+		new ParagraphPageElement("Stormhalter is a passion project that began as a remake of Legends of Kesmai, with the goal of building a singular community. Expanding on the original game, it is a persistent world that will be updated and expand over time. Efforts are directed on creating a game that is both nostalgic and new, with a focus on community and respectful gameplay."),
+		new ParagraphPageElement("Our project aims to introduce new players and provide a welcoming environment, regardless of their experience with Island of Kesmai, Legends of Kesmai, or Lands of Kesmai. If you are a veteran player, you will find a familiar experience with new content and challenges."),
+		new ParagraphPageElement("The game is built the community and we welcome feedback and suggestions. We are excited to see the game grow and evolve with the help of our players. Please join us on Discord and feel free to contribute to the Wiki."),
 	));
