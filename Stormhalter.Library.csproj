@@ -6,6 +6,9 @@
         <Nullable>enable</Nullable>
 
         <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+
+        <Configurations>Release;Debug;Test</Configurations>
+        <Platforms>AnyCPU;x64</Platforms>
     </PropertyGroup>
 
     <ItemGroup>
